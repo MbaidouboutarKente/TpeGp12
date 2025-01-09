@@ -26,4 +26,4 @@ Ce projet est un générateur de mots de passe en Python, conçu pour créer des
 
 1. Exécutez le script Python :
    ```bash
-   python generate_password.py
+   python index.py
