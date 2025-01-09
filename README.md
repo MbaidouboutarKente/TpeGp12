@@ -2,11 +2,13 @@
 
 ## Liste des membres du groupe 12
 
-   1. BEDJI MOITANGAR (21A184FS) conception 
-   2. MBAIRAMADJI CLARK (21A245FS) conception et réalisation 
-   3. MBAITESSEM SOSTHENE (21A763FS) conception 
-   4. MILLA FANAVA MOISE (22B568FS) conception 
-   5. MAHAMAT ADOUM SOULEMANE ADOUM (21A283FS) conception 
+Rat_DOE_25A111FS_TPE_Cloud_2025) e
+
+   1. Rat_BEDJI MOITANGAR_21A184FS_TPE_Cloud_2025 
+   2. Rat_MBAIRAMADJI CLARK_21A245FS_TPE_Cloud_2025
+   3. Rat_MBAITESSEM SOSTHENE_21A763FS_TPE_Cloud_2025
+   4. Rat_MILLA FANAVA MOISE_22B568FS_TPE_Cloud_2025
+   5. Rat_MAHAMAT ADOUM SOULEMANE ADOUM_21A283FS_TPE_Cloud_2025
 
 # Générateur de Mots de Passe
 
@@ -26,4 +28,4 @@ Ce projet est un générateur de mots de passe en Python, conçu pour créer des
 
 1. Exécutez le script Python :
    ```bash
-   python index.py
+   python generate_password.py
