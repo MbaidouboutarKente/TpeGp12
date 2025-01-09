@@ -2,7 +2,6 @@
 
 ## Liste des membres du groupe 12
 
-Rat_DOE_25A111FS_TPE_Cloud_2025) e
 
    1. Rat_BEDJI MOITANGAR_21A184FS_TPE_Cloud_2025 
    2. Rat_MBAIRAMADJI CLARK_21A245FS_TPE_Cloud_2025
